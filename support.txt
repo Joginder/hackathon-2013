@@ -1,0 +1,16 @@
+Browser Support:-
+IE (Latest)
+Chrome (Latest)
+Firefox (Latest)
+Safari (Latest)
+Opera (Latest)
+iOS Safari (Latest)
+Opera Mini (Latest)
+Chrome for Android (Latest)
+Firefox for Android (Latest)
+IE Mobile (Latest)
+IE (v9)
+
+Responsive:-
+minimum: width 320px
+maximum: width 1366px

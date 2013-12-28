@@ -1,0 +1,14 @@
+Colors:-
+Cyan      #34D1C6
+Dark Gray #7E7774
+White     #FFFFFF
+Soft Red  #DF5C52
+
+Type Faces:-
+Lato: http://www.google.com/fonts/specimen/Lato
+Variations:
+Light 300
+Normal 400
+Normal 400 Italic
+Bold 700
+Bold 700 Italic
